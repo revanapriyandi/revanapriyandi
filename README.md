@@ -33,6 +33,9 @@ Hi, I'm [M Revan Apriyandi](https://revanapriyandi.github.io), a Web Developer (
 <a href="https://twitter.com/RevanApriyandi_">
   <img align="left" alt="Revan Apriyandi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="https://web.facebook.com/mrevanapriyandi">
+  <img align="left" alt="Revan Apriyandi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />
+</a>
 <a href="https://www.linkedin.com/in/m-revan-apriyandi-a908701a9/">
   <img align="left" alt="Revan Apriyandi LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
