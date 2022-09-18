@@ -1,0 +1,98 @@
+{
+    "skills": [
+        {
+            "name": "HTML",
+            "persen": "95"
+        },
+        {
+            "name": "CSS",
+            "persen": "85"
+        },
+        {
+            "name": "JAVASCRIPT",
+            "persen": "90"
+        },
+        {
+            "name": "PHP",
+            "persen": "85"
+        },
+        {
+            "name": "JQUERY",
+            "persen": "80"
+        },
+        {
+            "name": "LARAVEL",
+            "persen": "90"
+        },
+        {
+            "name": "CODEIGNITER",
+            "persen": "70"
+        },
+        {
+            "name": "VUEJS",
+            "persen": "70"
+        },
+        {
+            "name": "LIVEWIRE",
+            "persen": "75"
+        },
+        {
+            "name": "REACTJS",
+            "persen": "70"
+        },
+        {
+            "name": "NEXTJS",
+            "persen": "60"
+        },
+        {
+            "name": "API",
+            "persen": "80"
+        },
+        {
+            "name": "PYTHON",
+            "persen": "75"
+        },
+        {
+            "name": "MYSQL",
+            "persen": "80"
+        },
+        {
+            "name": "POSTGRESQL",
+            "persen": "70"
+        },
+        {
+            "name": "MONGODB",
+            "persen": "75"
+        },
+        {
+            "name": "GIT",
+            "persen": "95"
+        },
+        {
+            "name": "NODEJS",
+            "persen": "95"
+        },
+        {
+            "name": "ANDROID JAVA",
+            "persen": "60"
+        },
+        {
+            "name": "FLUTTER",
+            "persen": "65"
+        }
+    ],
+    "project": [
+        {
+            "name": "E-Learning",
+            "link": "http://morning-depths-73734.herokuapp.com/",
+            "img": "images/gallery/1.png",
+            "desc": "E-learning built with the Laravel Framework."
+        },
+        {
+            "name": "SISTEM INFORMASI INVENTARIS SEKOLAH",
+            "link": "#",
+            "img": "images/gallery/2.png",
+            "desc": "SI Inventaris Sekolah yang dilengkapi fitur pinjam, yang dibangun untuk Project TA Mapel PWPB. memiliki banyak fitur yang lumayan lengkap."
+        }
+    ]
+}
