@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [M Revan Apriyandi](https://revanapriyandi.vercel.app/), a Web Developer (Laravel and Wordpress) 🚀 from Indonesia. Freelancer 👨🏽‍💻 [@FashWork](https://fastwork.id/). Beside's programming, I enjoy gaming and traveling.
+Hi, I'm [M Revan Apriyandi](https://revanapriyandi.vercel.app/), a Web Developer (Laravel and Wordpress) 🚀 from Indonesia. Freelancer 👨🏽‍💻 [@upwork](https://www.upwork.com/). Beside's programming, I enjoy gaming and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
